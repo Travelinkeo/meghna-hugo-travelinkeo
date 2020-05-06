@@ -5,8 +5,8 @@
   translation: Leer Mas
 - id: viewAllPost
   translation: View All Post
-- id: share
-  translation: Share
+- id: Compartir
+  translation: Compartir
 - id: aboutAuthor
   translation: About author
 - id: authorsPosts
