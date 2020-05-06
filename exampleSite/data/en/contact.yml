@@ -20,3 +20,4 @@ contact:
     map_longitude: "-66.904139"
     map_latitude: "10.478312"
     gmap_api: https://www.google.co.ve/maps/place/10%C2%B028'41.9%22N+66%C2%B054'14.9%22W/@10.4747991,-66.9040742,16.17z/data=!4m6!3m5!1s0x8c2a5f35285fb629:0x2af571458d37dd6a!7e2!8m2!3d10.4783118!4d-66.9041392?hl=es&authuser=0
+    enable: true
