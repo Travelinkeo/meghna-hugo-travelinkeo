@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Travelinkeo"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -52,10 +52,10 @@ URL = "https://themefisher.com/"
 name = "Themefisher"
 weight = 8
 [params]
-author = "Themefisher"
+author = "Travelinkeo"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/Logotipo2Blanco.png"
 post_share = true
 [params.map]
 enable = true
