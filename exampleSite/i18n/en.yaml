@@ -7,8 +7,8 @@
   translation: Ver Todos los Post
 - id: Compartir
   translation: Compartir
-- id: aboutAuthor
-  translation: About author
+- id: AcercaDelAutor
+  translation: Acerca del autor
 - id: authorsPosts
   translation: Author's posts
 - id: Enviar
