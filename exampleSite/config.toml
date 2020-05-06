@@ -1,4 +1,4 @@
-baseURL = "travelinkeo13.netlify.app"
+baseURL = "https://travelinkeo13.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
