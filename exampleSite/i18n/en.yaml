@@ -11,7 +11,7 @@
   translation: About author
 - id: authorsPosts
   translation: Author's posts
-- id: submit
-  translation: Submit
+- id: Enviar
+  translation: Enviar
 - id: all
   translation: All
