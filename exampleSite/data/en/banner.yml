@@ -4,9 +4,9 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Experience the new reality
-  content: Contenido
+  title: 'Marca Tu Destino '
+  content: 'Contenido '
   button:
     enable: true
-    label: Explore Us
+    label: 'Botón '
     link: "#services"
