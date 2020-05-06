@@ -1,6 +1,6 @@
 ---
-- id: blogTitle
-  translation: Latest Post
+- id: TituloDelBlog
+  translation: Publicación más reciente
 - id: LeerMas
   translation: Leer Mas
 - id: VerTodosLosPost
