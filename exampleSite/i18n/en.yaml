@@ -9,8 +9,8 @@
   translation: Compartir
 - id: AcercaDelAutor
   translation: Acerca del autor
-- id: authorsPosts
-  translation: Author's posts
+- id: PublicacionesDelAutor
+  translation: Publicaciones del autor
 - id: Enviar
   translation: Enviar
 - id: Todo
