@@ -3,8 +3,8 @@
   translation: Latest Post
 - id: LeerMas
   translation: Leer Mas
-- id: viewAllPost
-  translation: View All Post
+- id: VerTodosLosPost
+  translation: Ver Todos los Post
 - id: Compartir
   translation: Compartir
 - id: aboutAuthor
@@ -13,5 +13,5 @@
   translation: Author's posts
 - id: Enviar
   translation: Enviar
-- id: all
-  translation: All
+- id: Todo
+  translation: Todo
