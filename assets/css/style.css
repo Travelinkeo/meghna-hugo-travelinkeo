@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #03A6A6;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #0D1E40;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #D92B2B;
 }
 
 .parallax-section {
