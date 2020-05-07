@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #2173A6;
+  background-color: #FFFFFF;
   font-family: "Harabara", sans-serif;
   color: #0D1E40;
   -webkit-font-smoothing: antialiased;
@@ -47,13 +47,13 @@ pre {
 ==================================================================*/
 ::-moz-selection {
   /* Code for Firefox */
-  color: #fff;
-  background: #57cbcc;
+  color: #0D1E40;
+  background: #03A6A6;
 }
 
 ::selection {
-  color: #fff;
-  background: #57cbcc;
+  color: #0D1E40;
+  background: #03A6A6;
 }
 
 hr {
