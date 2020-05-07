@@ -219,7 +219,7 @@ a:hover {
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #D92B2B;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -229,7 +229,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #F2CC0C;
   color: #fff;
 }
 
@@ -288,7 +288,7 @@ a:hover {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #2c2f36;
+  background-color: #0D1E40;
   z-index: 9999;
   display: flex;
   align-items: center;
