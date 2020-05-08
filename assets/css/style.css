@@ -8,7 +8,7 @@ Tags: one-page, single-page, portfolio, custom-colors, post-formats, responsive,
 */
 /*=== MEDIA QUERY ===*/
 html {
-  background-color: #0D1E40;
+  background-color: #0D1E40; /*personalizado por Armando*/
   color: #000000;
 }
 
@@ -323,7 +323,7 @@ a:hover {
 }
 
 .section-bg {
-  background: #292F36;
+  background: #BF8786; /*personalizado por Armando*/
 }
 
 .overly {
