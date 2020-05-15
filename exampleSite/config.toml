@@ -8,7 +8,7 @@ title = "Travelinkeo"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [Travelinkeo](https://#) all right reserved"
-home = "Home"
+home = "Inicio"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
