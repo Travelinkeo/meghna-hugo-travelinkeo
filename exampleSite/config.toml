@@ -33,7 +33,7 @@ name = "Portafolio"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "Team"
+name = "Equipo "
 weight = 4
 [[menu.main]]
 URL = "pricing"
