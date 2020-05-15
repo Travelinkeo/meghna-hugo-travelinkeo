@@ -45,7 +45,7 @@ name = "Precios"
 weight = 5
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
