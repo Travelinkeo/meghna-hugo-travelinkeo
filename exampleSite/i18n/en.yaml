@@ -11,7 +11,7 @@
   translation: Acerca del autor
 - id: authorsPosts
   translation: Publicaciones del autor
-- id: Enviar
+- id: submit
   translation: Enviar
 - id: Todo
   translation: Todo
