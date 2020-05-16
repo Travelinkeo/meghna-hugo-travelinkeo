@@ -29,10 +29,10 @@ service:
       necesidades '
   - name: Alquiler de Vehículos
     icon: fas fa-car
-    content: 'Trasladarse es importante y más aun si necesitas visitar varios sitios
+    content: Trasladarse es importante y más aun si necesitas visitar varios sitios
       en un mismo viaje. Lo mas comodo y economico es tener un vehiculo y Travelinkeo
       pone a su disposición el servicio de alquiler de vehículos en la mayoría de
-      los destinos que visite '
+      los destinos que visite.
   - name: 'Asesoria Turística '
     icon: fas fa-map-marked
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
