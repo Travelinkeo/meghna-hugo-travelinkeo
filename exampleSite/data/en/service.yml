@@ -16,7 +16,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Hospedaje en Hoteles, Posadas, Hostales
-    icon: ti-palette
+    icon: fas fa-concierge-bell
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: 'Asesoria Turística '
