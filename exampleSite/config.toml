@@ -9,8 +9,8 @@ title = "Travelinkeo"
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [Travelinkeo](https://#) all right reserved"
 home = "Inicio"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "es-ve"
+languageName = "Es"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
@@ -20,25 +20,37 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contacto"
-weight = 5
-[[menu.main]]
-URL = "team"
-name = "Equipo "
-weight = 3
+URL = "about"
+name = "Quienes Somos"
+weight = 1
 [[menu.main]]
 URL = "services"
 name = "Servicios"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "Quienes Somos"
-weight = 1
+URL = "portfolio"
+name = "Portafolio"
+weight = 3
+[[menu.main]]
+URL = "team"
+name = "Equipo "
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 4
+weight = 6
+[[menu.main]]
+URL = "pricing"
+name = "Precios"
+weight = 5
+[[menu.main]]
+URL = "contact"
+name = "Contacto"
+weight = 7
+[[menu.static]]
+URL = "https://themefisher.com/"
+name = "Themefisher"
+weight = 8
 [params]
 author = "Travelinkeo"
 description = "Responsive Multipurpose Parallax HTML5 Template"
