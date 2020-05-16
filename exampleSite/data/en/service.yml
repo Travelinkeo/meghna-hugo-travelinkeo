@@ -16,11 +16,11 @@ service:
       y a disfrutar de esas merecidas vacaciones.
   - name: Seguros de Viajes
     icon: fas fa-stethoscope
-    content: Al viajar deberíamos estar asegurados, esto por si en algún momento se
-      presenta un imprevisto o se padece de algún tipo de enfermedad lo mejor es estar
-      prevenidos con un Seguro de Viajes que cubra esa necesidad, hay países que solicitan
-      el Seguro de Viajes como requisito para el ingreso. Travelinkeo pone a su disposición
-      las aseguradoras más confiables del mercado para que viaje tranquilo.
+    content: Al viajar deberíamos estar asegurados, si se presenta un imprevisto o
+      se padece de algún tipo de enfermedad lo mejor es estar prevenidos con un Seguro
+      de Viajes que cubra esa necesidad, hay países que solicitan el Seguro de Viajes
+      como requisito para el ingreso. Travelinkeo pone a su disposición las aseguradoras
+      más confiables del mercado para que viaje tranquilo.
   - name: Hospedaje en Hoteles, Posadas, Hostales
     icon: fas fa-concierge-bell
     content: 'Donde Hospedarse es lo más importante al momento de viajar y dependiendo
