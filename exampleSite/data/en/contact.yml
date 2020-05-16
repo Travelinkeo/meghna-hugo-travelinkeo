@@ -18,4 +18,4 @@ contact:
     map_longitude: "-66.904139"
     map_latitude: "10.478312"
     gmap_api: ''
-    enable: true
+    enable: false
