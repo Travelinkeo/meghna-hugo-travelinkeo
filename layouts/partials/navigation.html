@@ -38,7 +38,7 @@
 				</ul>
 				<!-- Language List -->
 				{{- if .Site.IsMultiLingual }}
-				<select id="select-language" onchange="location = this.value;">
+				<!--select id="select-language" onchange="location = this.value;">
 					{{ $siteLanguages := .Site.Languages}}
 					{{ $pageLang := .Page.Lang}}
 					{{ range .Page.AllTranslations }}
@@ -55,7 +55,7 @@
 					{{ end }}
 					{{ end }}
 					{{ end }}
-				</select>
+				</select-->
 				{{ end }}
 			</div>
 		</nav>
