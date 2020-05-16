@@ -16,10 +16,15 @@ feature:
       promociones engañosas y basamos nuestras
       negociaciones en el respecto. La sinceridad es la
       base de la confianza.
-  - title: Easy Customization
-    icon: ti-panel
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+  - title: Responsabilidad
+    icon: ''
+    content: |-
+      Manejamos no solo el dinero de nuestros
+      clientes, manejamos sus sueños sus intenciones
+      de viajar, esto lo tomamos muy enserio y damos
+      lo mejor porque cada cliente obtenga el mejor
+      servicio por su inversión, para nosotros nuestros
+      clientes y proveedores son lo mas importante.
   - title: SEO Optimized
     icon: ti-stats-up
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
