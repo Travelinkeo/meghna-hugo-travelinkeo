@@ -9,8 +9,13 @@ feature:
   feature_item:
   - title: Honestidad
     icon: ''
-    content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
-      dolores repellendus eos saepe
+    content: |-
+      Hablamos con la verdad y damos la información
+      más certera y actual posible, tratamos de
+      verificar antes de informar, no hacemos
+      promociones engañosas y basamos nuestras
+      negociaciones en el respecto. La sinceridad es la
+      base de la confianza.
   - title: Easy Customization
     icon: ti-panel
     content: Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur
