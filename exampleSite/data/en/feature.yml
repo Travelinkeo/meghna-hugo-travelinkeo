@@ -3,9 +3,8 @@ feature:
   enable: true
   image: images/about/about-business-man.jpg
   image_webp: images/about/about-business-man.webp
-  title: Marca tu Destino
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora
-    itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+  title: Agencia de Viajes con Valores
+  content: Todo lo que hacemos lo hacemos con valores muy arraigados
   feature_item:
   - title: Honestidad
     icon: ''
