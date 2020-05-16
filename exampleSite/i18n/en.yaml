@@ -9,7 +9,7 @@
   translation: Compartir
 - id: aboutAuthor
   translation: Acerca del autor
-- id: PublicacionesDelAutor
+- id: authorsPosts
   translation: Publicaciones del autor
 - id: Enviar
   translation: Enviar
