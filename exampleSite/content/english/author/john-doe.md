@@ -7,8 +7,8 @@ social:
   link: "#"
 - icon: ti-twitter-alt
   link: "#"
-- icon: ti-github
-  link: "#"
+- icon: fab fa-whatsapp
+  link: https://wa.link/aOPd
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
