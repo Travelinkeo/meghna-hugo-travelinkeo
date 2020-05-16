@@ -8,7 +8,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: 'Paquetes Turísticos '
-    icon: fad fa-umbrella-beach
+    icon: fas fa-umbrella-beach
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Seguros de Viajes
