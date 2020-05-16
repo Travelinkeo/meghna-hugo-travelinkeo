@@ -5,12 +5,15 @@ service:
   service_item:
   - name: Boletos Aéreos
     icon: fas fa-plane-departure
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Volar es la manera más rápida y segura de viajar. Con Travekinkeo compre
+      su Boleto Aéreo, con la mayor comodidad, vía Telefónica, Correo o WhatsApp.
+      De manera segura y con la certeza que está comprando al mejor precio para el
+      destino en la fecha solicitada.
   - name: 'Paquetes Turísticos '
     icon: fas fa-umbrella-beach
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: 'Hospedaje, traslados, actividades turísticas, todo en uno, si quiere
+      disfrutar  de unas vacaciones tranquilas compre un Paquete Turístico con Travelinkeo
+      y a disfrutar de esas merecidas vacaciones '
   - name: Seguros de Viajes
     icon: fas fa-stethoscope
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
