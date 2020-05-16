@@ -64,8 +64,6 @@ map_latitude = "10.478312"
 map_longitude = "-66.904139"
 map_marker = "images/marker.png"
 [[params.plugins.css]]
-link = "<link href=\"/your-path-to-fontawesome/css/all.css\" rel=\"stylesheet\"> <!--load all styles -->"
-[[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
