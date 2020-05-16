@@ -3,10 +3,10 @@ about:
   enable: true
   title: Quienes Somos
   about_item:
-  - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: fas fa-route
+    title: Viajeros
+    content: En Travelinkeo nos gusta viajar, conocer, explorar y disfrutar de un
+      buen viaje por esta razón, nos dedicamos a esto porque amamos lo que hacemos.
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
