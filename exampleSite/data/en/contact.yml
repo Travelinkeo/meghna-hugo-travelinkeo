@@ -1,7 +1,7 @@
 ---
 contact:
   enable: true
-  title: Entremos en Contacto
+  title: Contacto
   subtitle: Contact Details
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
     provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
@@ -12,8 +12,8 @@ contact:
     info: 'Prolongación Zuloaga, Edif. Q '
   - icon: ti-mobile
     info: 'Phone: +58212 6317079'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+  - icon: fab fa-whatsapp
+    info: 'WhatsApp Business: +58212 6317079 '
   - icon: ti-email
     info: 'Email: travelinkeo@gmail.com'
   map:
