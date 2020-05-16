@@ -7,8 +7,8 @@ team:
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
     designation: Director General
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: 'Emprendedora, entusiasta profesional del mundo del turismo con mas de
+      10 años de experiencia entre lineas aereas y agencias de viajes '
     social:
     - icon: ti-facebook
       link: "#"
