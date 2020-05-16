@@ -1,7 +1,7 @@
 ---
 - id: TituloDelBlog
   translation: Publicación más reciente
-- id: LeerMas
+- id: readMore
   translation: Leer Mas
 - id: VerTodosLosPost
   translation: Ver Todos los Post
