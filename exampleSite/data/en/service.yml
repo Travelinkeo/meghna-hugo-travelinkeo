@@ -11,9 +11,9 @@ service:
       destino en la fecha solicitada.
   - name: 'Paquetes Turísticos '
     icon: fas fa-umbrella-beach
-    content: 'Hospedaje, traslados, actividades turísticas, todo en uno, si quiere
+    content: Hospedaje, traslados, actividades turísticas, todo en uno, si quiere
       disfrutar  de unas vacaciones tranquilas compre un Paquete Turístico con Travelinkeo
-      y a disfrutar de esas merecidas vacaciones '
+      y a disfrutar de esas merecidas vacaciones.
   - name: Seguros de Viajes
     icon: fas fa-stethoscope
     content: Al viajar deberíamos estar asegurados, esto por si en algún momento se
