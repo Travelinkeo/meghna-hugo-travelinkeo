@@ -7,10 +7,11 @@ about:
     title: Viajeros
     content: En Travelinkeo nos gusta viajar, conocer, explorar y disfrutar de un
       buen viaje por esta razón, nos dedicamos a esto porque amamos lo que hacemos.
-  - icon: ti-cup
-    title: We're Professional
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon: fas fa-user-tie
+    title: Profesionales
+    content: 'Cada día buscamos de aprender y actualizarnos en materia turística,
+      buscamos de ser mejores para brindar un mejor servicio. Crecemos profesionalmente
+      por nosotros para ustedes. '
   - icon: ti-thought
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
