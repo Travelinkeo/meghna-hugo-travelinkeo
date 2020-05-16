@@ -1,11 +1,9 @@
 ---
 contact:
   enable: true
-  title: Contacto
-  subtitle: Contact Details
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero,
-    provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores
-    dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  title: Contactanos Ahora
+  subtitle: Entremos en Contacto
+  content: Déjanos un comentario y a la brevedad posible te estaremos en contacto
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
