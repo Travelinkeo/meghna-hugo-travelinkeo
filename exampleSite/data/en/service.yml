@@ -20,7 +20,7 @@ service:
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: 'Asesoria Turística '
-    icon: fad fa-map-marked
+    icon: fas fa-map-marked
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Alquiler de Vehículos
