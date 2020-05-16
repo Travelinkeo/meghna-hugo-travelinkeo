@@ -23,10 +23,10 @@ service:
       más confiables del mercado para que viaje tranquilo.
   - name: Hospedaje en Hoteles, Posadas, Hostales
     icon: fas fa-concierge-bell
-    content: 'Donde Hospedarse es lo más importante al momento de viajar y dependiendo
+    content: Donde Hospedarse es lo más importante al momento de viajar y dependiendo
       del tipo de viaje las necesidades de hospedaje son diferentes. Conscientes de
       esto en Travelinkeo buscaremos el mejor tipo de hospedaje que se ajuste a sus
-      necesidades '
+      necesidades.
   - name: Alquiler de Vehículos
     icon: fas fa-car
     content: Trasladarse es importante y más aun si necesitas visitar varios sitios
