@@ -4,7 +4,7 @@ service:
   title: 'Nuestros Servicios '
   service_item:
   - name: Boletos Aéreos
-    icon: ti-world
+    icon: fa-plane-departure
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: 'Paquetes Turísticos '
