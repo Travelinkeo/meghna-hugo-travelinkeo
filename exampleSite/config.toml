@@ -55,7 +55,7 @@ logo = "images/Logotipo2Blanco.png"
 post_share = true
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
+gmap_api = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3923.2842838850556!2d-66.90638158468684!3d10.478240992524299!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8c2a5f352889f1c3%3A0x61f98b2f3d59ab1a!2sServicios%20Travelinkeo%201331%20C.A.!5e0!3m2!1ses!2sve!4v1589651806431!5m2!1ses!2sve"
 map_latitude = "10.478312"
 map_longitude = "-66.904139"
 map_marker = "images/marker.png"
