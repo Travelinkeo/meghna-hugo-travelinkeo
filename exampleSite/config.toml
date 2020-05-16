@@ -91,6 +91,9 @@ link = "plugins/google-map/map.js"
 enable = true
 preloader = "images/Logotipo2Blanco.png"
 [[params.social]]
+icon = "fab fa-whatsapp"
+link = "https://wa.link/g2zc67"
+[[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
