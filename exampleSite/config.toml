@@ -94,8 +94,8 @@ preloader = "images/Logotipo2Blanco.png"
 icon = "fab fa-whatsapp"
 link = "https://wa.link/g2zc67"
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
+icon = "fab fa-facebook"
+link = "https://www.facebook.com/travelinkeo/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
