@@ -1519,8 +1519,8 @@ input#e-mail,
   background-color: #26292e;
   border: 1px solid transparent;
   display: block;
-  height: 70px;
-  width: 70px;
+  height: 40px; /*valor original 70px, modificado por armando*/
+  width: 40px; /*valor original 70px, modificado por armando*/
   transition: all 400ms ease-out 0s;
 }
 
@@ -1535,7 +1535,7 @@ input#e-mail,
 
 .social-icon ul li a i {
   color: #55606a;
-  display: inline-block;
+  display: inline-block; 
   font-size: 32px;
   line-height: 70px;
   margin: 0;
