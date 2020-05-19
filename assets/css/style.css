@@ -1519,8 +1519,8 @@ input#e-mail,
   background-color: #26292e;
   border: 1px solid transparent;
   display: block;
-  height: 40px; /*valor original 70px, modificado por armando*/
-  width: 40px; /*valor original 70px, modificado por armando*/
+  height: 70px; /*valor original 70px, modificado por armando*/
+  width: 70px; /*valor original 70px, modificado por armando*/
   transition: all 400ms ease-out 0s;
 }
 
