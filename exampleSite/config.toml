@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Travelinkeo"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2020 [Travelinkeo](https://#) all right reserved"
+copyright = "copyright &copy; 2021 [Travelinkeo](https://#) all right reserved"
 home = "Inicio"
 languageCode = "es-ve"
 languageName = "Es"
