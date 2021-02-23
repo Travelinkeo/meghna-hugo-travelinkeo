@@ -1216,7 +1216,7 @@ a:hover {
 }
 
 .post-block {
-  background-color: #292F36;
+  background-color: #ffffff;
   margin-bottom: 10px;
 }
 
@@ -1321,7 +1321,7 @@ a:hover {
 }
 
 .next-prev a {
-  color: rgb(184, 41, 41);
+  color: #000;
 }
 
 .next-prev a:hover {
