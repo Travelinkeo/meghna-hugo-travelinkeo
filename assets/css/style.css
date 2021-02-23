@@ -1211,7 +1211,7 @@ a:hover {
   Latest Posts
 ==================================================================*/
 .note {
-  background-color: #000000;
+  background-color: #292F36;
   border: 1px solid #4e595f;
 }
 
@@ -1321,7 +1321,7 @@ a:hover {
 }
 
 .next-prev a {
-  color: #000;
+  color: rgb(184, 41, 41);
 }
 
 .next-prev a:hover {
