@@ -555,7 +555,7 @@ a:hover {
 }
 
 .about .block:hover {
-  border-bottom: 2px solid #2173A6; /*personalizado por Armando*/
+  border-bottom: 3px solid #2173A6; /*personalizado por Armando*/
 }
 
 .about .block:hover .icon-box {
