@@ -547,9 +547,9 @@ a:hover {
   About us section
 ==================================================================*/
 .about .block {
-  background: #03A6A6; /*personalizado por Armando*/
+  background: #0D1E40; /*personalizado por Armando*/
   padding: 30px;
-  border-bottom: 2px solid transparent;
+  border-bottom: 4px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
 }
